@@ -1,0 +1,3 @@
+L'heure à laquelle la trame a été envoyée est : 12h45min30.000sec 
+La latitude est :  43°36'8.640" N
+La longitude est :   1°26'29.040" E
